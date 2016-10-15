@@ -82,9 +82,9 @@ export class HomePage extends React.Component {
     return (
       <article>
         <Helmet
-          title="Home Page"
+          title="Welcome to Of10"
           meta={[
-            { name: 'description', content: 'A React.js Boilerplate application homepage' },
+            { name: 'description', content: 'Of10 Community' },
           ]}
         />
         <div>

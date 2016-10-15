@@ -1,11 +1,5 @@
 {
-  "name": "React Boilerplate",
-  "icons": [
-    {
-      "src": "favicon.png",
-      "sizes": "48x48",
-      "type": "image/png",
-      "density": 1.0
+  "name": "Of10 MM App"
     },
     {
       "src": "favicon.png",
@@ -29,5 +23,5 @@
   "start_url": "index.html",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#FFFFFF"
+  "background_color": "#ec008c"
 }

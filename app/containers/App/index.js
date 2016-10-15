@@ -24,9 +24,9 @@ function App(props) {
     <div className={styles.wrapper}>
       <Helmet
         titleTemplate="%s - React.js Boilerplate"
-        defaultTitle="React.js Boilerplate"
+        defaultTitle="Of10 Workspace and Community"
         meta={[
-          { name: 'description', content: 'A React.js Boilerplate application' },
+          { name: 'description', content: 'Of10 Workspace and Community' },
         ]}
       />
       <A className={styles.logoWrapper} href="https://twitter.com/mxstbr">
